@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css?family=');
+
+html, body {
+
+    height: 100%;
+    width: 100%;
+    font-family: "Trebuchet MS" !important;
+    color: rgb(0,102,102);
+    background-color: rgb(255,255,255);
+
+}
+
+#titolo{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    height: 100px;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS';
+}
+
+#subtitle{
+  display: block;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+}
+#midTitle{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-top: 50px;
+}
+
+#navbar {
+    overflow: hidden;
+    margin-left: -14px;
+  }
+
+#navbar a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px;
+    font-family: "Trebuchet MS" !important;
+    font-size: 14px;
+    text-decoration: none;
+    color: #050E23;
+    font-weight: bold;
+  }
+
+  .fertilizer {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
+
+
+
+  #descrizione {
+    text-align: center;
+    font-weight: 600;
+    margin-left: auto;
+    margin-right: auto;;
+    width: 80%;
+    padding-top: 30px;
+    background-color: rgb(255,255,255);
+
+  }
+
+  #decrizioneHerb{
+  font-weight: 600;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding-top: 20px;
+  background-color: rgb(255,255,255);
+  }
+
+  #screenShot{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  padding-top: 25px;
+  background-color: gb(255,255,255);
+  }
+#screenShotTable{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 40%;
+padding-top: 20px;
+padding-left: 35px;
+background-color: gb(255,255,255);
+}
+
+#herbSectionDescrip{
+  font-weight: 600;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding-top: 20px;
+  background-color: rgb(255,255,255);
+
+}
+#download{
+  /*
+  padding-bottom: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right:
+  
+  background-image: url(appstore.eps);
+  padding-bottom: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right:
+  
+  display: block;
+  margin: 100px;
+  text-indent: 100px;
+  width: 981px;
+  height: 180px;
+*/
+}
+
+#appStoreLink{
+  padding-bottom: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+  
+  background-image: url(appstore.eps);
+}
